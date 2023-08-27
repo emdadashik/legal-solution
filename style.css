@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,500;0,600;0,700;1,600&display=swap');
+
+.btn1{
+    color: white;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #B68C5A;
+    padding: 12px 26px;
+    border: none;
+}
+.banner{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+    background: linear-gradient(180deg, #111 0%, rgba(17, 17, 17, 0.00) 100%);
+}
+.input-text{
+    padding: 12px 24px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+}
+.hero-section{
+    color: white;
+}
+h1{
+    font-family: 'EB Garamond', serif;
+    font-weight: 700;
+}
+.border1{
+    border: 1px solid #B68C5A;
+    padding: 8px;
+    padding-top: 12px;
+}
+.border1:hover{
+    border: 1px solid #E7E7E7;
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0.00) 100%);
+}
+.client{
+    width: 120px;
+}
+.card{
+    background: var(--dark-07, #F3F3F3);
+}
+.width-1{
+    width: 100%;
+    margin: 12px auto;
+    border-radius: 8px;
+    background: var(--dark-07, #F3F3F3);
+    padding: 12px;
+    border: none;
+    outline: none;
+}
+.btn2{
+    width: 100%;
+}
+.footer{
+    background-color: #111;
+    padding-top: 50px;
+    color: white;
+    padding-bottom: 50px;
+}
+.footer ul li{
+    list-style-type: none;
+}
